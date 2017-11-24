@@ -1,3 +1,3 @@
-# Daily Development Updates from Blockmason
+# Development Updates from Blockmason
 
 
