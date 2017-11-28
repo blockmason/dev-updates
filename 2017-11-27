@@ -1,0 +1,8 @@
+##
+1. deployed Lndr UCAC to mainnet
+
+2. ported mobile app and server over to use the mainnet version
+
+3. staked tokens from the staking pool to the Lndr UCAC to allow transactions
+
+4. currently testing live mainnet transactions through the app
