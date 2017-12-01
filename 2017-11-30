@@ -1,0 +1,8 @@
+### November 30th, 2017
+
+Here are the Blockmason Dev Updates for November 30th:
+
+#### Lndr Updates
+1. Updated server to automatically register transactions without waiting for the `IssueCredit` log to appear in blockchain.
+
+2. Implemented several bug fixes for the app UI.
