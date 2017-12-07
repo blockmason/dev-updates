@@ -1,5 +1,0 @@
-- fixed conflicting pending transactions between the same parties
-- put in features to handle network overload in cryptokitties situations
-- set up push notifications on the client side (need to integrate with server end of this week)
-- began wireframes for Ethereum settlement 
-- engaged UI designer to make interface more sleek for beta release
