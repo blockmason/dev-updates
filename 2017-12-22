@@ -1,0 +1,10 @@
+### December 22nd, 2017 ###
+Here are the Blockmason Dev Updates for December 22nd:
+
+#### Lndr Updates ####
+
+1. The updated UX designs are completed and implementation has begun.
+
+2. Push notifications have been added for pending transactions and will be released to testers soon.
+
+3. Server-side implementation of Eth debt settlement has started, and client integration will start after the UX redesign is complete.
