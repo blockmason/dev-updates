@@ -1,0 +1,13 @@
+February 8th, 2018
+Here are the Blockmason Dev Updates for February 8th:
+
+Lndr Updates
+- Allow users to add a profile photo
+- Fix black background on touchable highlight
+- Put back button navigation in top left
+- Adding friend focuses on friend
+- Friend balances are displayed on Add New Debt screen
+- Keyboard no longer covers the screen in the registration flow
+- Show nickname in transaction confirmation
+- Add ‘0x’ prefix to the Ethereum address on the My Account page
+- Numpad keyboard for number fields
